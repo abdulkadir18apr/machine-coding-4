@@ -1,0 +1,9 @@
+.Navbar{
+    background-color: #fff;
+    margin-left: 7rem;;
+}
+.Navbar h1{
+    color:#3730a3;
+    text-align: left;
+    padding-left:2rem;
+}
